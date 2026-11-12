@@ -1,0 +1,19 @@
+# LaTeX & Doxygen temporary build files
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+html/
+latex/
+Doxyfile
+
+# OS & System files
+.DS_Store
+Thumbs.db
+
+# VS Code directory
+.vscode/
